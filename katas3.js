@@ -82,7 +82,7 @@ function kata5() {
 function kata6() {
     // implemente o código do kata 6 aqui
     let x = ' '
-    for (let i = 0; i < 100; i++){
+    for (let i = 1; i < 100; i++){
         if ( i%3 == 0 ){
             x += i+',  '
         }
@@ -94,7 +94,7 @@ function kata6() {
 function kata7() {
     // implemente o código do kata 7 aqui
     let x = ' '
-    for(let i = 0; i < 100; i++){
+    for(let i = 1; i < 100; i++){
         if( i%7 == 0){
             x += i+', '
         }
